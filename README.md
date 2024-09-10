@@ -23,4 +23,4 @@ Build Tool : Maven
 Database Framework : mybatis (mysql)
 
 
-## DB 설계
+## [DB 설계](https://www.erdcloud.com/p/W4CEcQddyew6pw4Zu)
